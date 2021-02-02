@@ -1,0 +1,69 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.Bright{
+  background: linear-gradient(to left, #d200fc, #0703ff, #ff00aa);
+  color: rgb(236, 31, 31);
+}
+.Dark{
+  /* background-color: black; */
+  background: linear-gradient(to left, #46fff6, #03cdff, #01799e);
+  color: rgb(33, 240, 240);
+}
+
+#bground{
+  width: 50%;
+  height: 52em;
+  text-align: center;
+  margin-left: 50%;
+}
+
+#text{
+   padding-top: 20%;
+   font-size: 70px;
+}
+
+/* .Yellow{
+  background-color: yellow;
+  color: blue;
+}
+.Blue{
+  background-color: blue;
+  color: yellow;
+} */
+
+#ybbground{
+  width: 100%;
+  height: 39em;
+  text-align: center;
+}
+
+#ybtext{
+   padding-top: 20%;
+   font-size: 70px;
+}
